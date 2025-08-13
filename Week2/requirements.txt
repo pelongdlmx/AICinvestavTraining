@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+selenium
+spacy
+nltk
+symspellpy
+flashtext
+wordcloud
+matplotlib
+feedparser
+numpy 
+matplotlib 
+pillow 
+scikit-image 
+opencv-python
+
